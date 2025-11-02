@@ -8,3 +8,5 @@ A simple Python program that converts between currencies using an exchange rate 
 
 ## How to Run
 python currency_converter.py
+
+⭐ If you like this project, please give it a star!
